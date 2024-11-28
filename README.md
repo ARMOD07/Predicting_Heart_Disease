@@ -8,13 +8,11 @@ The World Health Organization (WHO) estimates that 17.9 million people die from 
 **L'Organisation mondiale de la santé (OMS)** estime que 17,9 millions de personnes meurent chaque année de maladies cardiovasculaires (MCV).
 
 There are multiple risk factors that could contribute to CVD in an individual, such as unhealthy diet, lack of physical activity, or mental illness. Identifying these risk factors early on could help prevent many premature deaths.  
-**Il existe de multiples facteurs de risque** qui pourraient contribuer aux maladies cardiovasculaires chez un individu, comme une mauvaise alimentation, le manque d'activité physique ou une maladie mentale. L’identification précoce de ces facteurs de risque pourrait contribuer à prévenir de nombreux décès prématurés.
-
-We are working for an R&D company that focuses on providing healthcare solutions. The company has collected anonymized data from multiple hospitals on several patients. The dataset includes relevant information for each patient, such as their personal information and some medical data, including whether or not they have had heart disease before.  
-**Nous travaillons pour une entreprise de R&D** qui se concentre sur la fourniture de solutions de santé. La société a collecté des données anonymisées auprès de plusieurs hôpitaux sur plusieurs patients. L'ensemble de données comprend des informations pertinentes pour chaque patient, telles que ses informations personnelles et certaines données médicales, notamment s'il a déjà eu ou non une maladie cardiaque.
+ ing for an R&D company that focuses on providing healthcare solutions. The company has collected anonymized data from multiple hospitals on several patients. The dataset includes relevant information for each patient, such as their personal information and some medical data, including whether or not they have had heart disease before.  
+ 
 
 We are tasked with using the dataset to accurately predict the likelihood of a new patient having heart disease in the future. The dataset has the following features:  
-**Nous sommes chargés d’utiliser l’ensemble de données** pour prédire avec précision la probabilité qu’un nouveau patient souffre d’une maladie cardiaque à l’avenir. L'ensemble de données présente les caractéristiques suivantes :
+ 
 
 ## Dataset Features
 
@@ -57,10 +55,12 @@ We are tasked with using the dataset to accurately predict the likelihood of a n
 ## Exploratory Data Analysis
 
 Before we jump into building a model, let's conduct exploratory data analysis on the dataset.  
-**Avant de nous lancer dans la création d'un modèle**, effectuons une analyse exploratoire des données sur l'ensemble de données.
-
-Please note: For each step of the project, you are encouraged to add appropriate headers or subheaders and any discussions or explanations you see fit. It's always beneficial to have an appropriate structure for any project. It will help others clearly understand your work and will enhance your portfolio. It doesn't have to be perfect in any sense of the word. The goal should be to clarify your thought process for every step.  
-**Veuillez noter** : Pour chaque étape du projet, nous vous encourageons à ajouter des en-têtes ou des sous-titres appropriés ainsi que toute discussion ou explication que vous jugez appropriée. Il est toujours bénéfique d'avoir une structure appropriée pour tout projet. Cela aidera les autres à comprendre clairement votre travail et améliorera votre portfolio. Il n’est pas nécessaire que ce soit parfait dans tous les sens du terme. L’objectif devrait être de clarifier votre processus de réflexion à chaque étape.
+ # Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)
+# Pile technologique ! [Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge) ! [Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white&style=for-the-badge) ! [GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) ! [LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)
 
 
  
